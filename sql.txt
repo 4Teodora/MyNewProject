@@ -1,3 +1,4 @@
+'this is a good example!'
 CREATE DATABASE employees;
 
 SHOW DATABASES;
@@ -13,7 +14,7 @@ CREATE TABLE people (
 
 INSERT INTO people (email, first_name, last_name)
 VALUES 
-  ('john@gmail.com', 'John', 'Smith'),
+  ('Sara@gmail.com', 'John', 'Smith'),
   ('smith@yahoo.co.uk', 'John', 'Smith'),
   ('peter@gmail.com', 'Peter', 'White'),
   ('anne@anne.com', 'Anne', 'Green'),
